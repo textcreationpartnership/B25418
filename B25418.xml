@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Darkness vanquished: or, Truth in it's primitive purity being an answer to a late book of Mr. Henry Danvers, intituled A treatise of laying on of hands. Wherein his mistakes and cloudy apprehensions about it, are in a faithful and friendly manner rectified, his grand obiections answered, and imposition of hands upon baptised believers, as such with prayer for the spirit of promise is proved, to be a holy and divine institution of Jesus Christ, and accordingly practiced by the apostles and primitive saints. Together with the testimony of many famous writers, both antient, and of later times concerning it. BY B. K.</title>
+            <author>Keach, Benjamin, 1640-1704.</author>
+         </titleStmt>
+         <extent>Approx. 85KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25418</idno><idno type="EEBO-CITATION">99829214</idno>
+  <idno type="VID">207118</idno>
+  <idno type="EEBO-PROQUEST">2240856454</idno>
+  
+            <idno type="STC">Wing K57</idno>
+            <idno type="PROQUEST">99829214</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829214e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25418)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207118)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1991:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Darkness vanquished: or, Truth in it's primitive purity being an answer to a late book of Mr. Henry Danvers, intituled A treatise of laying on of hands. Wherein his mistakes and cloudy apprehensions about it, are in a faithful and friendly manner rectified, his grand obiections answered, and imposition of hands upon baptised believers, as such with prayer for the spirit of promise is proved, to be a holy and divine institution of Jesus Christ, and accordingly practiced by the apostles and primitive saints. Together with the testimony of many famous writers, both antient, and of later times concerning it. BY B. K.</title>
+                  <author>Keach, Benjamin, 1640-1704.</author>
+               </titleStmt>
+               <extent>[14], 112, 97-107, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by Benjamin Harris in Swithins Rents, at the Stationers Arms in Corn-hill, near the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Benjamin Keach.</note>
+                  <note>A reply to: Danvers, Henry.  A treatise of laying on of hands.</note>
+                  <note>Running title reads: Darkness, and confusion vanquish't, or, Truth in its primitive purity.</note>
+                  <note>Includes errata.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Reproduction of the original in the Congregational Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Danvers, Henry, d. 1687. --  Treatise of laying on the hands --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207118:1"/>
+            <pb facs="tcp:207118:1"/>
+            <p>DARKNESS VANQUISHED: OR, Truth in it's Primitive purity, Being An answer to a late Book of Mr. <hi>Henry Danvers,</hi> Intituled <hi>A Treatise of laying on of Hands.</hi>
+            </p>
+            <p>Wherein His mistakes and cloudy appre<g ref="char:EOLhyphen"/>hensions about it, are in a faithful and friendly manner rectified, his grand obiections answered, and imposition of hands upon baptised Believers, as such with Prayer for the Spirit of Promise is proved, to be a holy and divine Institution of Jesus Christ, and accor<g ref="char:EOLhyphen"/>dingly practiced by the Apostles and primitive Saints.</p>
+            <p>Together With the testimony of many famous Writers, both Antient, and of later times concerning it.</p>
+            <p>By <hi>B. K.</hi>
+            </p>
+            <bibl>Psal. 119 141.</bibl>
+            <q>I am small and despised; yet do not I forget thy Precepts.</q>
+            <bibl>Isa. 58. 12.</bibl>
+            <q>And they that shall be of thee, shall build the old wast places, thou shalt raise up the foundati<g ref="char:EOLhyphen"/>ons of many Generations, and shall be called the re<g ref="char:EOLhyphen"/>pairer of the breach, the restorer of paths to dwell in.</q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be sold by <hi>Benjamin Harris</hi> in <hi>Swithins</hi> Rents, at the <hi>Stationers Arms</hi> in <hi>Corn<g ref="char:EOLhyphen"/>hill,</hi> near the <hi>Royal Exchange.</hi> 1675.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:207118:2"/>
+            <pb facs="tcp:207118:2"/>
+            <head>THE Epistle Dedicatory.</head>
+            <argument>
+               <p>Unto the Congregations of our Lord Jesus Christ, who upon confession of Faith have been Baptized, and are under imposition of Hands in South <hi>Wales,</hi> Grace, Mercy, and Peace be multiplyed.</p>
+            </argument>
+            <opener>
+               <salute>Brethren,</salute>
+            </opener>
+            <p>NOtwithstanding the glorious Light that hath broken forth among us in these latter times, yet we see gross darkness covering the face of the Earth; nay, and our Hea<g ref="char:EOLhyphen"/>vens are not so clear as we hope e're long to be<g ref="char:EOLhyphen"/>hold them, for although <hi>the Light is come, yet the glory of the Lord</hi> is but arising <hi>upon us;</hi> ours is but the morning of that longed for day, and
+<pb facs="tcp:207118:3"/> poor <hi>Sion</hi> is but a looking forth of the Wilder<g ref="char:EOLhyphen"/>ness and from hence it is, there is so many diffe<g ref="char:EOLhyphen"/>rences and divisions amongst us, we speak as we see and according to the Light we have received, and accordingly we are bound by the authority of Divine precept to walk: God gradually dis<g ref="char:EOLhyphen"/>covers himself, and the true Order and Form of his House and Worship unto us, and though we still are labouring under many difficulties, having had much Rubbish to remove (like as the Children of <hi>Israel</hi> had, when they came out of the seventy years captivity) and many have endeavoured to weaken our hands, yet through infinite grace, we may say the foundation of the House of God is laid: Though some who would build cannot find the Wall, and others strive to bring in a stone of <hi>Babylon</hi> for a Cor<g ref="char:EOLhyphen"/>ner whilst some others endeavour to cast away a principle Pillar, because it hath lain a long time corrupted and covered amongst the Anti-Christian Rubbish. Reformation is a glorious work, and tis that we all long and breath after Mr. <hi>D s.</hi> hath been helpful of late to the Church of God in the business of Baptism) but fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> want of further Light, lost his way on a sudde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by which means I perceive many who are in on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> respect much behind him, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n another are g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before him, and may (as far as I can judg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> get into <hi>Canaan</hi> as soon as he. Imposition o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hands is the principle of our present controver<g ref="char:EOLhyphen"/>sie, and it is to be lamented, that in such a da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as this we should be forced to a work of thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:207118:3"/> nature, our Brother upon this consideration was disswaded from doing that which we see now is published to the world, and rather upon this ac<g ref="char:EOLhyphen"/>count then any other, for few judged it would do the truth it self much injury, by weakning the hearts or hands of such as were established in it, or enquiring after it, nay some were ready to judge it scarce deserved an Answer: But o<g ref="char:EOLhyphen"/>thers considering how well he wrote a little be<g ref="char:EOLhyphen"/>fore upon the other principle, had thoughts it might upon that account the more likely tend to the intangling of the weak, and more unwary Christian. And now as touching my underta<g ref="char:EOLhyphen"/>king in the work as I judged my self every ways uncapable in the respect of others; so it was not my thoughts nor purpose to have been concerned, till I was put upon it by some in this City, and considering the backwardness of o<g ref="char:EOLhyphen"/>thers in the matter, that did the more induce me thereto. And though it be but abruptly done, yet such as it is, I here present to your serious perusal and consideration of all such, whose Souls long after the good, full restora<g ref="char:EOLhyphen"/>tion and perfection of <hi>Sion,</hi> hoping the God of Truth will make it find entertainment in the hearts of the humble, although I expect it will be slighted by such who are passionately opinio<g ref="char:EOLhyphen"/>nated of their own attainments and perswasions, and who think it below them to receive instructi<g ref="char:EOLhyphen"/>on from such who are inferiour to them. It is the grief of some of your Souls (as I have ground to believe) to see any whom you love,
+<pb facs="tcp:207118:4"/> and tender in the Lord, setting themselves a<g ref="char:EOLhyphen"/>gainst so holy an Institution of Jesus Christ, but however, this you will find in perusal of this ensuing discourse, though there are too many found amongst Baptized Christians, utterly disalowing and rejecting of it; nay, and seem not desirous to know or enquire after the mind of God herein, yet many godly persons both of the <hi>Presbyterian</hi> and <hi>Independant</hi> perswasion (al<g ref="char:EOLhyphen"/>though dark and negligent about the business of Baptism) have breathed, longed, and searched after the knowledge and discovery of this truth, nay and have attained to a good understanding and satisfaction herein, having laboured after a perfect restoration of it, to it's primitive use and purity, refining and draining of it from those corruptions, and mutations of the <hi>Popish</hi> Church, not only in respect of those abomina<g ref="char:EOLhyphen"/>ble additions, and mixtures of chrism, and other ridiculous ceremonies in it's administration, but also in respect of the subject to whom of right it doth belong, as doth abundantly appear in a Treatise of Mr. <hi>Jonathan Hanmores,</hi> writ 1658. about which time tis apparent their Spirits were very hot upon it. I find Mr. <hi>Caryl</hi> (writing E<g ref="char:EOLhyphen"/>pistilary wise in commendation of the said book) speaking thus. <hi>I conceive</hi> (saith he) <hi>the learned Authour of these Elaborate exercitations hath d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>served well of the Churches, by clearing the way of those admissions from Scripture grounds, and the concurrent testimony of many, both An<g ref="char:EOLhyphen"/>tient and Modern▪ Writers: As also by disco<g ref="char:EOLhyphen"/>vering
+<pb facs="tcp:207118:4"/> and removing those Popish additions and pollutions▪ which by several steps have crept into it.</hi> And further he says that <hi>this ingenious and pious overture holds forth more,</hi> then most Churches have hitherto atained.</p>
+            <p>Also Mr. <hi>Vennings</hi> honest and judicious ex<g ref="char:EOLhyphen"/>pressions (in his Epistle to the same Treatise) I can't well omit (speaking concerning) reforma<g ref="char:EOLhyphen"/>tion and godliness, saith he, <hi>Either by reason of our dim-sightedness, being not able to see afar off, nor penetrate into the depth and bottom of them, or by reason of the abusive traditions, and corrupt glosses, with which for many Ages they have been clouded and over-cast, many truths seem not to be so clear, but they need further clearing, among others such as relate to Church Discipline and order, have for a long time been under debate, and not without some considerable advantage, though I humbly conceive we have not attained so far as to be already perfect, It remains therefore that we press forward, and not be so passionately fond of our prepossest cenceptions, as not to have the patience to consider what may be offered to us, especially by such as are well-wishers to Sion, and desirous to see the Gospel Temple in it's beauty. If any Persons are spirited to search after further knowledge in these affairs, to dig for it as for hid treasures and when they have found a Vein of Golden ore, to refine and stamp it for us, we should be in readiness to receive the truth in the love of it, and pay the
+<pb facs="tcp:207118:5"/> tribute and homage of obedience for the sake of the God of Truth, whose Image and Superscription it bears.</hi>
+            </p>
+            <p>
+               <hi>What great and profitable pains my much ho<g ref="char:EOLhyphen"/>noured friend, the reverend Authour of the ensu<g ref="char:EOLhyphen"/>ing exercitation, hath taken in this one particular, presented to consideration and with what curious<g ref="char:EOLhyphen"/>ness without curiosity, with what learning, with<g ref="char:EOLhyphen"/>out ostentation,</hi> &amp;c.<hi>—You will best perceive by the view and perusal of it, and though my opi<g ref="char:EOLhyphen"/>nion be of little signification, yet I cannot forbear to say, that as to the substance and main of the design I judge it to be of so considerable an impor<g ref="char:EOLhyphen"/>tance that I do not see how it can be neglected without very great prejudice to Church Commu<g ref="char:EOLhyphen"/>nion, to say no more, haply some may be so nice as to be offended with the name, and dislike Confi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mation for fear of bishoping, as if that old fashioned garment had but a piece of new named cloath put to i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and drest up in another Mode; if it were so, can no good come out of Nazareth bonus odor veritatis ex requalibet, but if any are under such a fear, I think I may assure them that they are more afraid then hurt, yea afraid, where no fear is, as they will quickly find if they will please to come and see.</hi>
+            </p>
+            <p>I could wish our dissenting Brethren would weigh the matter with more seriousness, and Christian moderation, sith there hath been by so many persons of different perswasions, such a di<g ref="char:EOLhyphen"/>ligent
+<pb facs="tcp:207118:5"/> scruting made <hi>adveritatem inrestigandam,</hi> and such holy longings and breathings after the mind of God, herein the result were of having been a singular agreement touching the thing it self. But it may seem strange I must confess to all discerning Christians, that such persons should not be able to discover or find out the Anti-christi<g ref="char:EOLhyphen"/>on polutions and mutations in Baptism, in respect of the subject and manner of Baptizing Which is so apparently contrary to the Gospel rule and pattern also; O that the God of Israel would be pleased to open the eyes of some eminent ones amongst them to see the pure chrystal stream of this Institution of the Lord Jesus, or help them to use Mr. <hi>Vennings</hi> phrase, to find the Vein of this golden ore, since they will not receive it, as it hath been refined and ready stampt for them by the hands of such, whose skill or faithfulness they seem to suspect.</p>
+            <p>But first, How alas can they be perfect in Church constitution and order, whilst they miss the mark in so considerable an ordinance as Bap<g ref="char:EOLhyphen"/>tism, taking a stone of <hi>Babylon</hi> for a foundation, and that for Baptism, which is none, for it hath been so grosly abused, (as a learned Writer once minded in another case) that there is nothing re<g ref="char:EOLhyphen"/>maining of it amongst them save the meer name of the thing.</p>
+            <p>But Secondly, May it not be admired that Men of such Light and Conscience should only
+<pb facs="tcp:207118:6"/> please themselves with the theory and notinal part of a practitual Ordinance of Jesus Christ; they see it to be a Gospel Institution, but never could I be informed as yet that they are in the practice thereof, <hi>if ye know these things, happy are ye if you do them.</hi>
+            </p>
+            <p>Thirdly, But how contrary to the rule and glorious Doctrine of the Lord Jesus, would they act should they get into the practice thereof, whilst they so grievously err in the administration of Baptism, sith that also doth wholly belong to adult persons as must be acknowledged if the Ho<g ref="char:EOLhyphen"/>ly Scriptures be a perfect and sufficient rule for us to walk by, and doth express whatsoever is ne<g ref="char:EOLhyphen"/>cessary for us to know concerning it as well as in cases of the like nature.</p>
+            <p>But probably some may object, since most of the Authours that are mentioned in this insuing discourse (for the further evincing of this truth contended for) are corrupt either in Baptism or laying on of hands or both, to what purpose are they produced.</p>
+            <p>In answer to which I must say, that what we have offered upon the account of Authours and antiquity, has been occasionally done, Mr. <hi>Dan<g ref="char:EOLhyphen"/>vers</hi> having lead us in that path.</p>
+            <p>Nay and I might say we are necessitated there<g ref="char:EOLhyphen"/>unto through his means, unless we should leave
+<pb facs="tcp:207118:6"/> one chief part of his book unanswered, in regard that he utterly denyes the thing it self, <hi>viz.</hi> Lay<g ref="char:EOLhyphen"/>ing on of hands upon baptized Believers, as such, affirming that there is not the least mention made of any such thing, or practice in the Scrip<g ref="char:EOLhyphen"/>ture, and Secondly in saying that the Antient Fa<g ref="char:EOLhyphen"/>thers and asse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ters of it, flew mainly unto tradi<g ref="char:EOLhyphen"/>tion, and the usage of the Church in the case. Should an adversary arise, and utterly deny wa<g ref="char:EOLhyphen"/>ter Baptism, (however administred) and say it was never commanded by Jesus Christ, but that it is a meer humane invention, innovation, or a thing devised of Man, yea and affirm that all the Fathers and Confessors, that heretofore did plead for it, wholly made use of tradition, and usage of the Church in vindication thereof.</p>
+            <p>Would not any that is for Baptism judge it ne<g ref="char:EOLhyphen"/>cessary, not only to prove it was instituted by the Lord Jesus, and practiced by the Apostles and primitive Christians, but also prove in opposition to his apponant, that those Writers both of for<g ref="char:EOLhyphen"/>mer and latter times who contended for it, did fly to the Scripture for the proof and confirmation thereof, though some of them could not do so, as touching the subject and manner of administrati<g ref="char:EOLhyphen"/>on, from hence it is that we have proceeded on such a method in the defence of an Ordinance of the same nature and authority.</p>
+            <p>And now my dear Brethren I cannot but ac<g ref="char:EOLhyphen"/>quaint you, that my Spirit hath been much re<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eshed to hear how the work of the Lord has
+<pb facs="tcp:207118:7"/> been carried on of late amongst some of you and the readiness of many to receive this despised t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uth, I am perswaded the more a truth is oppo<g ref="char:EOLhyphen"/>sed, the more it gets ground, and the Saints with others inquire after it, for since Mr. <hi>Danvers</hi> book came forth, at one Meeting in <hi>London,</hi> on one day upon my own knowledge, near thirty persons came under the practise hereof <hi>vincet v<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ritas,</hi> let truth go on conquering, and to conquer, the Lord will arise and scatter all the clouds of darkness and opposition, and take away the reproach from his servants, cast upon them for witnessing to his truth, and being zealous for his name, let them be ashamed who transgress without cause, if we are reproached let us take it patiently, sith it is for our pretious Redeemers sake, who hath said you are my friends if you do whatsoever I com<g ref="char:EOLhyphen"/>mand ye, and in another place, whosoever there<g ref="char:EOLhyphen"/>fore shall break one of these least Commandments and teach Men, so he shall be called the least in the Kingdom of God.</p>
+            <p>Brethren remember that the Spir<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of God pro<g ref="char:EOLhyphen"/>nounces them worthy of commendation who stand fast and keep the ordinances as they were delive<g ref="char:EOLhyphen"/>red to them, and the more we see evil Men and Seducers labouring on every side of us, to tread under feet, and contemptiously despising of them, let us stir up our selves with one heart in the de<g ref="char:EOLhyphen"/>fence of them, and as they are appointed, as Con<g ref="char:EOLhyphen"/>duit-pipes for the conveyances of the Spirit, and blessings of the Gospel to our Souls, so let us walk as such that experience the inward life and vertue of them, that thereby we may beautifie the Gospel
+<pb facs="tcp:207118:7"/> and Doctrine of God and our Saviour in all things having Lamps &amp; Oy lalso in our Vessels, the form of sound words; &amp; power of godliness in our hearts and lives. And now finally Brethren that I may not be further tedious unto you, my breathings and desires are, that the God and Father of our Lord Jesus Christ, the Father of ligh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, the God of all comfort and consolation would fill you with the knowledge of his will in all wisdom, and spiritual understanding, and grant you more clear and hea<g ref="char:EOLhyphen"/>venly communion with himself, and one with ano<g ref="char:EOLhyphen"/>ther in the paths of peace and righteousness and in able you to walk inoffensively in all well pleasing being fruitful in every good work, and that the God of all grace would establish, strengthen and settle you in his truth and ways, that so you may remain unmoveable like a rock, in these evil and perilous times, wherein so many turn aside; giving ear to seducers, imposters, and lying spirits, with which our days so abound, that it will be a choice blessing to be kept from falling, and preserv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with<g ref="char:EOLhyphen"/>out blame till the coming of our Lord Jesus Christ.</p>
+            <p>Now that the God of peace, that brought again from the dead our Lord Jesus, the great Shepherd of the Sheep, through the blood of the everlasting Covenant, would sanctify you throughout, &amp; keep you from falling and present you without spot be<g ref="char:EOLhyphen"/>fore him, in the day of his glorious appearances, shall be the constant and hearty prayer of</p>
+            <closer>
+               <signed>Your Brother, and Servant for Christ, and his Truth sake. Benjamin Keach.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207118:8"/>
+            <pb n="1" facs="tcp:207118:8"/>
+            <head>Laying on of Hands UPON BAPTISED BELIEVERS, As such proved both from Scripture, and Anti<g ref="char:EOLhyphen"/>quity, to be a holy Institution of JESUS CHRIST.</head>
+            <div type="introduction">
+               <head>THE INTRODƲCTION.</head>
+               <p>AS it is matter of grief, and trouble, to many so<g ref="char:EOLhyphen"/>ber, and pious Christians, so it is no less of ad<g ref="char:EOLhyphen"/>miration to see such eminent, and worthy Per<g ref="char:EOLhyphen"/>sons beclouded, and darkned, concerning one Or<g ref="char:EOLhyphen"/>dinance that are so clear in, and so much for the practise of another, how well hath Mr. <hi>Danvers</hi> written of late concerning Baptisme? How hath he defended it, against strong opposition, as a glo<g ref="char:EOLhyphen"/>rious Institution of Jesus Christ? did he not ap<g ref="char:EOLhyphen"/>pear like a Starr of the first Magnitude? but how soon eclypsed: and darkned of his light? (I do not mean from the Interposition of an earthy or cloudy Body, that was observed to arise a little after, to diminish, or lessen his shining, which is
+<pb n="2" facs="tcp:207118:9"/> thorow the operation of his light ready to vani<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> away) but it is from some inward defect, I mean th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> darkness of his own understanding, or ignorance concerning another Principle of the Christian R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ligion, <hi>viz.</hi> Imposition of hands upon baptised B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lievers, as such which he hath in a latter Tre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tise cried down, as much as he cried Baptisme up<g ref="char:EOLunhyphen"/>rendring it to be nought else, save a meer human<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> innovation, or Anti-Christian forgerie, wherea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nothing can be more clear, then that it is of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> same nature, and authority with Baptisme, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ought equally to be contended for, being <hi>Inte<g ref="char:EOLunhyphen"/>prima Rudimenta Fidei Christianae: Amon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the first Rudiments of the Christian Faith</hi> Dangerous it is to pull one stone out of the Foun<g ref="char:EOLunhyphen"/>dation of the House of God, the Lord open his eye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to see his weakness; however what he hath writ<g ref="char:EOLunhyphen"/>ten concerning this Principle, is in this ensuin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Treatise examined, weighed, and particulerly ans<g ref="char:EOLunhyphen"/>wered.</p>
+            </div>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>MR. <hi>Danvers</hi> in his <hi>Introduction</hi> tells u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> page the <hi>third,</hi> having given us an Ac<g ref="char:EOLunhyphen"/>count both from <hi>Scripture,</hi> and <hi>Anti<g ref="char:EOLunhyphen"/>quity,</hi> of the business of Baptisme, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> its Institution, subject, manner, and end, &amp;c. I may neither be unnecessary, nor unprofitable to give us an account of <hi>Laying on of hands,</hi> no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> only because it <hi>immediately follows that of Baptis<g ref="char:EOLunhyphen"/>me, Heb.</hi> 6 1, 2. but more especially becaus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:207118:9"/> for <hi>Confirmation</hi> (as it hath been called) it had been next after Baptisme so solemly asserted, practised, and enjoined, both in former, and latter times, as an <hi>Ordinance</hi> of Christ, and es<g ref="char:EOLhyphen"/>sentialy necessary to Church Communion; But what this <hi>Laying on of hands</hi> is, and how that of <hi>Confirmation</hi> is founded upon the Word of God, he tells us, he shall consider, examine, and re<g ref="char:EOLhyphen"/>commend it to the judgement of all discerning, and impartial Christians.</p>
+               <p>Sir, you have in your Treatise of <hi>Baptis<g ref="char:EOLhyphen"/>me</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reply. </seg>
+                  </label> done well; <hi>Jehovah</hi> bless your work and pains therein; and is it so in very deed? is the ground, and reason why you undertoke to write <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bout <hi>Laying on of hands,</hi> because it <hi>immediately <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ollows Baptisme, Heb.</hi> 6. 1. 2? And do you find <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t so clearly to follow that of Baptisme in <hi>Heb.</hi> 6.? and hath that of Confirmation, as it is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alled, been so solemly asserted in former, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atter times as an Ordinance of Christ, and es<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entialy necessary to Church Communion? Me <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hinks if this be so, you should be very careful <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow you speak, or write against such an Ordi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance, which do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h so immediately follow Bap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>isme, according to the Scripture; and more <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>specially considering what you speak about Au<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hors, and Antiquity, concerning Confirmation, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r laying on of hands, it having been so solemly <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sserted, practised, and enjoined, as above <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aid.</p>
+               <p>Though for my part I do not judge it worth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y while, to make such a narrow search into <hi>Authors, Canons, Decrees of general Councels,</hi>
+                  <pb n="4" facs="tcp:207118:10"/> and the like, as probable you, and many may d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> considering we have the plain word of Christ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> speaking so clearly in the case, what need w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> trouble our selves further, especially being sati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fied, as some of the Fathers have said themselve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that no <hi>Doctors,</hi> nor <hi>Councels</hi> are of any auth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rity, or credit without the <hi>Word of God▪</hi> y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> finding so many of the Ancients, speaking <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> plainly, and clearly touching this <hi>Ordinanc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> though under another name, it rather then e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doth <hi>confirm</hi> me in my belief, and practise her<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in; and one would think it should the more stu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ble you, for whatsoever credit, or esteem so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of those Authors are whom you mention, ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> judge you will grant <hi>several</hi> of them, to be <hi>famous</hi> as most who have writen since the Apo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>les time, as hereafter may be hinted,</p>
+               <p>In the next place you tell us, what <hi>method</hi> y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will observe in writing your Treatise, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>First,</hi> Give us an account what you find<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this <hi>Rite</hi> (as you are pleased to call it) in t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> New Testament.</p>
+               <p>
+                  <hi>Secondly,</hi> How asserted, and practised by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ancients with the opinions of the Fathers, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Decrees of Councels.</p>
+               <p>
+                  <hi>Thirdly,</hi> How practised, and injoined by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Church of <hi>Rome.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> How by the Church of <hi>England.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> How maintained by some of the <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>byterian,</hi> and <hi>Independent</hi> perswasion.</p>
+               <p>
+                  <hi>Sixthly.</hi> How practised, and injoined by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>veral of the baptised Churches in this Nation.</p>
+               <p>You then proved to shew, how <hi>Laying
+<pb n="5" facs="tcp:207118:10"/> of hands</hi> was used in the <hi>New Testament.</hi>
+               </p>
+               <p>
+                  <hi>First,</hi> In benediction, <hi>Mark</hi> 10. 16.</p>
+               <p>
+                  <hi>Secondly,</hi> For healing, <hi>Mark</hi> 6. 5.</p>
+               <p>
+                  <hi>Thirdly,</hi> For conferring the <hi>extraordinary gifts</hi> of the Spirit, before Baptisme, <hi>Acts</hi> 9. 17. Af<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er Baptisme, <hi>Acts</hi> 8. 14.</p>
+               <p>
+                  <hi>Fourthly,</hi> In <hi>Ordination, Acts 6. 6. 1 Tim. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4. 14. Acts</hi> 13. 3.</p>
+               <p>I readily grant what you say, about the seve<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al <label type="milestone">
+                     <seg type="milestoneunit">Reply. </seg>
+                  </label> sorts of <hi>Laying on of hands,</hi> and the use, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd of them, save that I must needs except against, what you speak concerning the <hi>third</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort, you do affirm that hands were laid upon Persons, for the confering the extraordinary gifts of the Spirit; two Scriptures you mention for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he proof, the first in <hi>Acts</hi> 9. 17. the other in <hi>Acts</hi> 8. 14, 15 in which affirmation you altoge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her <note place="margin">See Gods Oracle p. 62, 63.</note> beg the question, and prove nothing, nor <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emove what hath been said to this very point; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n this I must withstand you, for you go to fast, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd I should be glad could I be an Instrument <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the hand of Christ; to rectifie your under<g ref="char:EOLhyphen"/>standing herein, for you seem to be much mi<g ref="char:EOLhyphen"/>staken about that Text, in <hi>Acts</hi> 9. 17. but espe<g ref="char:EOLhyphen"/>cially concerning that in <hi>Acts</hi> 8. 14, 15. I shall therefore offer something in the first place to this; Doth not the Scripture say plainly in <hi>Acts</hi> 9 17. that <hi>Ananias put his hands upon Saul, that he might receive his sight,</hi> why should you say then, it was for the <hi>extraordinary gifts</hi> of the Spirit, if that which is expressed to be the effects of <hi>Ananias,</hi> his putting his hands on <hi>Paul,</hi> was the only end of that service; which is according to your own
+<pb n="6" facs="tcp:207118:11"/> arguings upon <hi>Acts 8. 14. Acts</hi> 19. 16. then<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> was only for his <hi>sight;</hi> for it is said he receive his sight, but not a word of his receiving th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Holy Ghost, when he laid his hand upon him though he was sent to <hi>Saul,</hi> that he might r<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ceive the Spirit is granted; but whether by layin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> on of hands, or some other means, you are y<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to prove; this being an extraordinary case<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and different from that in <hi>Acts 8. 14, 15. vi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Ananius</hi> his laying hands on <hi>Saul</hi> as a bli<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Man, that he might receive his sight (which a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>wers to that in <hi>Mark</hi> 16. 18.) and <hi>Peter</hi> a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>John</hi> laying their hands on them in <hi>Acts</hi> 8. 1<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> as on baptized Believers, as such for their r<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ceiving of the holy Spirit, makes nothing to t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Controversie depending; though Mr. <hi>Danv<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> hath put them together, as if the subject, ma<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ner, and end, was one and the same. But S<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>condly, to proceed to that Scripture <hi>Acts</hi> 8. 1<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> where mention is made of <hi>Peter,</hi> and <hi>Johns</hi> l<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing their hands on baptised Believers in <hi>San<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ria,</hi> which you affirm was also for to confer t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> extraordinary gifts of the Spirit; but how mu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> you are mistaken herein, shall now be examin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Since it appears not that the Apostles that we<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> at <hi>Jerusalem,</hi> did either send <hi>Peter,</hi> and <hi>John<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Samaria</hi> upon that account, or that they did<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their hands upon those believing <hi>Samaritains</hi> that only end; 'tis very strange that Mr. <hi>Danv<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> should affirm any such thing, but to prevent the fore this mistake, let us once again exam<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> these Texts: <hi>Now when the Apostles, which were Jerusalem, heard that Samaria had received the W<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <pb n="7" facs="tcp:207118:11"/> of God, they sent unto them</hi> Peter, <hi>and</hi> John, <hi>who when they were come down, prayed for them that they might receive the Holy Spirit,</hi> ('tis not said the <hi>extraordinary gifts▪</hi> but the Holy Spirit, those you see are the express words) <hi>for as yet</hi> (faith the Text) <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e was fallen upon none of them, only they were baptised in the name of the Lord Jesus; then laid they their hands on them, and they received the Holy Ghost.</hi> Vers. 14, 25. I know 'tis <hi>ob<g ref="char:EOLhyphen"/>jected</hi> from the following words, that the Spirit came down upon them in some visible, or ex<g ref="char:EOLhyphen"/>traordinary manner, because that <hi>Simon</hi> saw, that through laying on of the Apostles hands the Holy Spirit was given; This is only a supposi<g ref="char:EOLhyphen"/>tion, for who can tell what kind of manifesta<g ref="char:EOLhyphen"/>tions of the Spirit might appear in them, which might convince <hi>Simon</hi> that they had the Holy Spirit? the Text doth not say, they either <hi>spake with tongues▪</hi> or wrought Miracles; But if for arguments sake, we should grant they did re<g ref="char:EOLhyphen"/>ceive the Spirit, in some extraordinary man<g ref="char:EOLhyphen"/>ner, as those in <hi>Acts</hi> 19. it would not therefore follow, that this was the absolute end of this service; for if we may reason as you and others have done after this manner, that that which was the effects of their laying their hands upon them, was the end why they laid on their hands, and that end is by none attained in these days, therefore hands is not practicable in these days; we shall shew you the sad Consequences, and absurdities that would follow it; 'tis said <hi>Acts</hi> 4: 31. that when the Apostles had <hi>prayed,</hi> the place was shaken where they were assembled;
+<pb n="8" facs="tcp:207118:12"/> (Now mark) because this miracle was wroug<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as the <hi>effect</hi> of their praying; can it be thoug<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that was the <hi>end</hi> of Prayer, or that we must no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>pray,</hi> because no such effects are wrought now<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> And when <hi>Philip</hi> had <hi>baptised</hi> the Eunuch, <hi>Act</hi> 8. 39. 'tis said that the Spirit caught away <hi>Phi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lip,</hi> that the <hi>Eunuch</hi> saw him no more; what strange thing was this, that followed Baptisme but now because this Miracle followed as the ef<g ref="char:EOLhyphen"/>fect of that administration, shall we conclud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that that was the end of the Ordinance of Bap<g ref="char:EOLhyphen"/>tisme? But again in <hi>Acts</hi> 10. 44. while <hi>Pete<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was <hi>preaching</hi> the word to <hi>Cornelius,</hi> and to those that were in his house, 'tis said, <hi>The Holy Ghos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fell on all them that heard the word, so that they spake with tongues &amp;c.</hi> Now shall we say, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> extraordinary gifts of the Spirit, or Miracles was the end of preaching, because such kind o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> effects followed preaching? Surely none will ar<g ref="char:EOLhyphen"/>gue so, that understand themselves a right, fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> if that was the end of preaching, because it wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the effect that followed; and that effect now ne<g ref="char:EOLhyphen"/>ver following, we may say as many do, preaching is ceased, if you, and others reason right; fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> such, and such extraordinary gifts of the Spiri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> followed [say you] when baptised Believers did come, under laying on of hands, in the Apost<g ref="char:EOLhyphen"/>les dayes; these gifts are not given now, there<g ref="char:EOLhyphen"/>fore that Ordinance is ceased, being only for the Confirmation of the Gospel.</p>
+               <p>By the same Argument, all the Institution o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Christ may be denyed, as well as laying on of hands. As <hi>First,</hi> Meeting and assembling to<g ref="char:EOLhyphen"/>gether;
+<pb n="9" facs="tcp:207118:12"/> See <hi>Acts</hi> 2. 1. 'tis said, <hi>They were all met together with one accord in one place, and sud<g ref="char:EOLhyphen"/>denly there came a sound from Heaven, as of a rush<g ref="char:EOLhyphen"/>ing wind, and it filled all the house where they were sitting:</hi> Vers. 2. <hi>And there appeared unto them cloven tongues like fire, and sate upon each of them;</hi> Vers. 3. <hi>And they were all filled with the Holy Ghost, and began to spake with tongues, as the Spirit gave them utterance.</hi>
+               </p>
+               <p>Here is no mention made of any <hi>other</hi> Ordi<g ref="char:EOLhyphen"/>nance, save only assembling together, and mind what effects followed; these effects follow:</p>
+               <p>Not now, shall we therefore assemble toge<g ref="char:EOLhyphen"/>ther no more? <note n="*" place="margin">The Seekers make use of this ob<g ref="char:EOLhyphen"/>jection, a<g ref="char:EOLhyphen"/>gainst all Ordinan<g ref="char:EOLhyphen"/>ces, saying none are impower<g ref="char:EOLhyphen"/>ed to ad<g ref="char:EOLhyphen"/>minister any, be<g ref="char:EOLhyphen"/>cause not so indow<g ref="char:EOLhyphen"/>ed with power from an High, and their argu<g ref="char:EOLhyphen"/>ments ful<g ref="char:EOLhyphen"/>ly agree with yours herein, against laying on of hands. Of this let the ra<g ref="char:EOLhyphen"/>tional judge.</note>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> When the Apostles <hi>prayed,</hi> the house was shaken, but 'tis not so now; doth prayer therefore cease to be a duty?</p>
+               <p>
+                  <hi>Thirdly,</hi> When Christ was <hi>baptised,</hi> there was a voice heard from Heaven, saying: <hi>This is my beloved Son▪ in whom I am well pleased,</hi> and the Spirit came down in likeness of a Dove: And when the <hi>Eunuch</hi> was baptised, the Spirit caught away <hi>Phillip;</hi> but such effects follow not now when Persons are baptised; ergo it's not the duty of any to be baptised now, if yours be right reason.</p>
+               <p>
+                  <hi>Fourthly,</hi> Peter <hi>preached</hi> to the <hi>Jews, Acts</hi> 2. and at one Sermon <hi>three thousand</hi> were conver<g ref="char:EOLhyphen"/>ted: And he preached to <hi>Cornelius, Acts</hi> 10 and while he preached, the holy Spirit came up<g ref="char:EOLhyphen"/>on
+<pb n="10" facs="tcp:207118:13"/> them that heard the Word, that they spake with tongues; but such effects as these follow not now, ergo no man is Authorized to preach now, by your arguing.</p>
+               <p>
+                  <hi>Fifthly,</hi> When <hi>Paul laid his hands</hi> on those baptised Believers, <hi>Acts</hi> 19. the holy Spirit came upon them, and they spake with tongues, and prophetised; but these effects follow not now, when baptised Believers have hands laid upon them, must we therefore lay hands no more? Surely we have no more reason to neglect, or lay this <hi>aside,</hi> then we have to lay aside all the other Ordinances, considering the like effects followed them respectively, as well as Laying on of hands; But <hi>contrary wise</hi> I must needs say, instead of being stumbled, or weakned in my Faith, and practise, concerning laying on of hands, from the Consideration of those extraor<g ref="char:EOLhyphen"/>dinary Gifts of the Spirit (being the effects that followed once or twice, as expressed in the Scrip<g ref="char:EOLhyphen"/>ture) that I am thereby abundantly <hi>confirmed,</hi> and established in it, and that because I find <hi>every</hi> Gospel Ordinance, and Institution of Jesus Christ, was in the Primitive time more, or less <hi>confirmed,</hi> according to <hi>Heb.</hi> 2. 4. by <hi>Signes, Won<g ref="char:EOLhyphen"/>ders, and divers Miracles,</hi> and Gifts of the Holy Ghost, according to his own will; and finding this Ordinance of <hi>imposition of hands, so</hi> visibly owned by <hi>Jehovah,</hi> and wonderfully confirmed by the extraordinary Gifts of the Spirit, like as Assembling together, Prayer, Preaching, and Baptizing hath been, it is I say of an establishing nature to me. And I see no ground any Per<g ref="char:EOLhyphen"/>son
+<pb n="11" facs="tcp:207118:13"/> hath to except against this Ordinance, more then any of the other, notwithstanding what ever hath been said, spoken, or writen against it from hence; And because I know this hath stumbled many People, which you seem to hint; <hi>(viz.)</hi> saying that the end of laying on of hands, <hi>Acts</hi> 8. 19. was for the extraordinary <hi>Gifts</hi> of the Spi<g ref="char:EOLhyphen"/>rit; I shall be the larger upon this particular fully to remove, and take of this objection, which in part hath already been done; but to proceed, I do affirm again that the end of that laying on of hands, <hi>Acts</hi> 8. 14. 15. was not for the extraordinary Gifts of the Spirit, and I ar<g ref="char:EOLhyphen"/>gue thus:</p>
+               <p>
+                  <hi>First,</hi> Because it was never <hi>Propounded</hi> as the end of it, neitheir can you nor any other Opposer prove it was; what can you Instance in the Case, sith what you mention of such and such effects which followed, proves nothing in the least.</p>
+               <p>
+                  <hi>Secondly,</hi> It could not be for the extraordi<g ref="char:EOLhyphen"/>nary Gifts of the Spirit, or Miracles, because those extraordinary Gifts were not <hi>promised,</hi> unto baptised Believers as such, nor was it ever given but to some particular Persons; only I grant, the Holy Spirit is promised to all, as it is the <hi>Comforter,</hi> according to <hi>John 14. 16. If ye love me, keep the Commandements, I shall pray the Father, and he shall send you another Comfor<g ref="char:EOLhyphen"/>ter, even the Spirit of truth, which shall abide with you for ever.</hi> All that are Disciples of Christ, who believe, and are baptised, have the Spirit promised to them, as further might be made ap<g ref="char:EOLhyphen"/>pear,
+<pb n="12" facs="tcp:207118:14"/>
+                  <hi>Act. 2. 38. Then said Peter repent, and be baptised every one of you in the Name of Jesus Christ, for the remission of Sins, and ye shall re<g ref="char:EOLhyphen"/>ceiveive the Gift of the Holy Spirit, for the pro<g ref="char:EOLhyphen"/>mise is to you, and all that are afar of even as many as the Lord our God shall call.</hi> The Spirit of God being so plainly promised, to all that were obedient to Jesus Christ, or were the cal<g ref="char:EOLhyphen"/>led of God; the Apostles, which were at <hi>Jeru<g ref="char:EOLhyphen"/>salem,</hi> hearing how God had called by his bless<g ref="char:EOLhyphen"/>ed Word, and Spirit, the <hi>Samaritains</hi> to obe<g ref="char:EOLhyphen"/>dience, they well knew, and were assured that the Holy Spirit, the <hi>Comforter,</hi> was their right promise, and priviledge, as well as any other Gospel Believers; and therefore they sent them <hi>Peter,</hi> and <hi>John,</hi> to the end they might receive (through the use of that holy ordinance) the pro<g ref="char:EOLhyphen"/>mise of the Father; and upon the consideration that the <hi>Samaritains</hi> were <hi>Gentiles,</hi> or such that were not of the Seed of <hi>Abraham,</hi> according to the flesh, and some of the first of the Gentiles race, that were called by the preaching of the Gospel, <hi>Jehovah</hi> was pleased to give some vi<g ref="char:EOLhyphen"/>sible <hi>sign,</hi> and demonstration of his receiving of them into his grace, and favour, for the satis<g ref="char:EOLhyphen"/>faction of any of the <hi>Jewish</hi> Disciples, that might be doubting concerning the <hi>extent</hi> of the blessings of Christ, and the Gospel; for palpable it is that for some time after the death, and resurrection of Christ, few of the Apostles themselves did understand the glorious intent, and purpose of the Almighty, in bringing in of the <hi>Gentiles,</hi> making them fellow Heirs, and of the same Bo<g ref="char:EOLhyphen"/>dy,
+<pb n="13" facs="tcp:207118:14"/> and Partakers of his promise in Christ, through the Gospel, <hi>Eph.</hi> 3. 6. This I humbly conceive might be one reason, why God did so <hi>visibly</hi> own the Ordinance of Laying on of hands, when administred as well as for the Confirmation of the Ordinance it self; But if you will still say, that the reason, end, or cause, why <hi>Peter,</hi> and <hi>John</hi> did lay their hands upon those baptised Be<g ref="char:EOLhyphen"/>lievers, was not for the Spirit, the Comforter, as so considered, but for the <hi>extraordinary</hi> Gifts thereof, I shall proceed to a third reason, and thus I argue.</p>
+               <p>
+                  <hi>Thirdly<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Either <hi>Peter,</hi> and <hi>John,</hi> when they laid their hands on those Believers, and prayed for the Spirit, they prayed <hi>in Faith,</hi> or <hi>not in Faith?</hi> if in Faith, then they had (I presume) some ground, or <hi>promise</hi> of God, and Christ, to build their Faith upon, concerning what they did pray for; But if it was for the extraordinary Gifts of the Spirit, as you affirm, where shall we find any such <hi>promise,</hi> that they might ground their Faith upon? and is it not sinful to <hi>pray</hi> for that which God hath no where promised, con<g ref="char:EOLhyphen"/>sidering what the Scripture saith? <hi>Rom.</hi> 14. 23. There are divers promises as hath been hinted, which God hath made of his giving of the Spi<g ref="char:EOLhyphen"/>rit; I grant, but not the extraordinary Gifts <note n="†" place="bottom">If any should ob<g ref="char:EOLhyphen"/>ject against me, <hi>Mar.</hi> 16. 17 18. and say miraculous Gifts are promised to such that do believe, &amp;c. I answer that by believing, cannot be ment the grace of Faith in that place, for if it should, we may say, no Man doth now believe, or hath true Faith in Christ; it is there<g ref="char:EOLhyphen"/>fore meant of the extraordinary Gift of Faith, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Faith of Mira<g ref="char:EOLhyphen"/>cles, according to 1 <hi>Cor.</hi> 12. 9. and 13. 2. He that so believe, no<g ref="char:EOLhyphen"/>thing can be to hard for him.</note>,
+<pb n="14" facs="tcp:207118:15"/> God promised he would pour out of his Spirit, on his Servants, and Hand-maids; And our Lord Jesus in <hi>John</hi> 14. 16. promised the Comforter, to all that did love him, and keep his Commande<g ref="char:EOLhyphen"/>ments; And in <hi>Acts</hi> 2. 38. It is promised to all that repent, and are baptised; doubtless it was by vertue of these premisses, or promisses of the like nature; <hi>Peter,</hi> and <hi>John</hi> prayed, and laid their hands on those Believers in <hi>Samaria<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and <hi>Paul</hi> on those at <hi>Ephesus, Acts</hi> 19. or else shew us what ground, or promise they had; If you say, the extraordinary Gifts of the Spirit were pro<g ref="char:EOLhyphen"/>mised; Then say I, they were promised to Per<g ref="char:EOLhyphen"/>sons of such, and such a name, or to Persons of such, or such a qualification. Now, surely none will say, to Persons of such, or such a name, therefore it must be promised to Persons so, or so qualified, and those qualifications also must be known; if the qualifications be not Repentance, Faith, and Baptisme, then assign what they are; If you say, Faith, and Repen<g ref="char:EOLhyphen"/>tance be the qualifications; Then say I, the promise of the extraordinary Gift is made to every Christian Man, and Woman; yea and every sincere Believer must receive those Gifts, or God doth <hi>fail</hi> of his promise; For certain I am, there is not one Soul, that is a Believer indeed, having obeyed from the heart the form of Do<g ref="char:EOLhyphen"/>ctrine, taught and delivered to the Saints, but hath <hi>more, or less</hi> received the Spirit of God, ac<g ref="char:EOLhyphen"/>cording to the promise, or promisses, made un<g ref="char:EOLhyphen"/>to them as Persons so, and so qualified, as hath already been minded.</p>
+               <pb n="15" facs="tcp:207118:15"/>
+               <p>
+                  <hi>Fourthly,</hi> The end of that Laying on of hands, <hi>Acts</hi> 8. could not be for the extraordi<g ref="char:EOLhyphen"/>nary Gifts of the Spirit, because those extraor<g ref="char:EOLhyphen"/>dinary Gifts of the Spirit, or Miracles, <hi>serves not for them that believe, but for them that believe not.</hi> Now can any think, <hi>Peter,</hi> and <hi>John</hi> was sent by the Apostles from <hi>Jerusalem,</hi> to those that had received the word, and were baptised in <hi>Samaria,</hi> for the profit, and benefit of the Unbelievers there, that they <hi>(viz.)</hi> such that did not believe in <hi>Samaria,</hi> might by beholding the Miracles, or extraordinary Gifts of the Spirit, given to them that did believe, be convinced that Jesus was the Christ. Surely <hi>no</hi> Man can think, or imagine any such thing, especially conside<g ref="char:EOLhyphen"/>ring the Text saith plainly: <hi>They were sent to them that had received the Word, and were bapti<g ref="char:EOLhyphen"/>sed;</hi> Sent for their particuler Comfort, and fur<g ref="char:EOLhyphen"/>ther Consolation in Christ Jesus, that so they might stand compleat in the whole will of God, and might be made Partakers of the Spirit of pro<g ref="char:EOLhyphen"/>mise, made to every believing Soul baptised, <hi>Acts</hi> 2. 38. for as much as it was their right, and they standing in great need of it, as all poor Souls do, who enter themselves under Christs Banner; For as our Lord Jesus, after he was baptised, had the Spirit descending down upon him, and was straightway exposed to temptation from the Devil, even so are all his Followers, when they take up the Profession of the Gospel, to expect to meet with sore trials, temptations, and afflictions, and therefore have need of the <hi>Spirit,</hi> to strengthen, encourage, support, and
+<pb n="16" facs="tcp:207118:16"/> comfort them, and to give them further assurance of the love of God, that they may not <hi>flag,</hi> nor be disheartened, but may be abundantly ena<g ref="char:EOLhyphen"/>bled to overcome all Enemies and opposition, and remain faithful unto the Lord Jesus Christ unto the death; And to this end doubtless did the Apostles send <hi>Peter,</hi> and <hi>John</hi> from <hi>Jerusa<g ref="char:EOLhyphen"/>lem,</hi> and they when they came did pray, and lay their hands upon those Men, and Women bapti<g ref="char:EOLhyphen"/>zed, even for the Holy Spirit of promise, for their particular profit, comfort and benefit, and not for extraordinary Gifts, or Miracles, which was ('tis plain <hi>Heb.</hi> 2. 4.) for the Confirmation of the Gospel to them that believe; not according to that passage, 1 <hi>Cor.</hi> 14. 22. wherefore tongues are for a sign not to them that believe, but to them that believe not; but prophesying serveth not for them that believe not, but them which believe.</p>
+               <p>
+                  <hi>Fifthly,</hi> This being so, it could not be for the extraordinary Gifts of the Spirit, that the Apostles did lay on their hands upon those in <hi>Samaria,</hi> because there was no <hi>need of further</hi> Miracles, forasmuch as <hi>Phillip</hi> had wrought such mighty Miracles, and wonders in that City be<g ref="char:EOLhyphen"/>fore, even in so much that they were all con<g ref="char:EOLhyphen"/>vinced; yea the very <hi>Sorcerer</hi> himself believed, and continued with <hi>Philip,</hi> and wondred be<g ref="char:EOLhyphen"/>holding the Miracles, and Signes which were done, <hi>Acts</hi> 8. 13. Surely the Apostles at <hi>Jeru<g ref="char:EOLhyphen"/>salem</hi> hearing of those things, and how the Peo<g ref="char:EOLhyphen"/>ple, yea the whole City were convinced, and satisfied, that Jesus was the Christ, would never
+<pb n="17" facs="tcp:207118:16"/> have sent <hi>Peter,</hi> and <hi>John,</hi> to do <hi>that work</hi> which was so effectually done before by <hi>Phillip;</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herefore I conclude, that that laying on of hands, <hi>Acts</hi> 8. was not for Tongues, Miracles, or the extraordinary Gifts of the Spirit, as Mr. <hi>Dan<g ref="char:EOLhyphen"/>vers</hi> doth affirm pag. 4. and this being so, my work is almost done already; for if <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e hath <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>missed in giving us a true Account, how Lay<g ref="char:EOLhyphen"/>ing of on hands was used in the New Testament, he hath missed in the main case off all; for if that Laying on of hands, in <hi>Acts</hi> 8. 14. 15. and <hi>Acts</hi> 19. was not for the extraordinary Gifts of the Spirit, the greatest Objection is answer<g ref="char:EOLhyphen"/>ed, and the chief stumbling block taken out of the way of Gods People; For if Prayer, and Laying on of hands, was practised upon baptised Believers as such, as a Principle of Christs Doctrine, for the promised Spirit, the Comforter as so considered, which is the ab<g ref="char:EOLhyphen"/>solute right portion, and priviledge of every be<g ref="char:EOLhyphen"/>lieving Soul to the end of the World, then doubtless the Ordinance must needs remain in full force, and vertue, as Gods way, means, or method of conveyance of the said Spirit, to all his Chosen alwayes even until the end; But be<g ref="char:EOLhyphen"/>cause I shall have further occasion to speak more to this anon, I shall forbear inlarging upon it here.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="18" facs="tcp:207118:17"/>
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>
+                     <hi>Shewing though this holy Institution of Christ h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> been corrupted by Anti-Christ, yet it ought <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> therefore to be rejected.</hi>
+                  </p>
+               </argument>
+               <p>MR. <hi>Danvers</hi> pag. 6. doth proceed, to she how Laying on of hands hath been <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>serted by the Antients, and by the Canons, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Decrees of several Councels. Pag. 15. how <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Church of <hi>Rome.</hi> Page 17. how by t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Church of <hi>England.</hi> Page 24. how asserted <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> some, both of the <hi>Presbyterian,</hi> and <hi>Independe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> perswasion, &amp;c.</p>
+               <p>What <hi>earnings,</hi> or advantage he could pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pound to himself, by filling up so many Pages his Book with Storys of this kind, I know no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Many Persons (as I am informed) and as I ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heard some say my self, do judge what he ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> done in this respect, doth make more against hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>self, then us; Nay some, who are for this Ord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nance, seem to be much <hi>confirmed</hi> by what he ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> said concerning Antiquity in the practise thereo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; look upon themselves, as beholding to Mr. <hi>Da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>vers</hi> for his pains in searching into Authors, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in producing so much, both from <hi>Antient,</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Modern</hi> Writers, for Laying on of hands as im<g ref="char:EOLunhyphen"/>mediately following Baptisme, and as necessar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to Church Communion; And I must confess I did not think so much could have been produ<g ref="char:EOLunhyphen"/>ced from Authors, and Antiquity in the case, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:207118:17"/> I perceive there may, having through his means, according as I am capable, made some search: Though I must needs say, if there were ten times more to be urged upon that account, had we not the Authority of Gods Word, to warrant our practise, it would signify nothing: For we will say with <hi>Ignatius:</hi>
+                  <q rend="margQuotes">Whoesoever speaketh more <note place="margin">Ignatius his Epist. to Hierom.</note> then is written, although he fast, although he keep his Virginity, although he work Miracles, al<g ref="char:EOLhyphen"/>though he Prophecy, yet let him seem to thee a Wolf amongst the Sheep.</q>
+               </p>
+               <p>But to proceed, I do wonder that Mr. <hi>Dan<g ref="char:EOLhyphen"/>vers</hi> should condemn, and wholly cast away, Laying on of hands upon baptised Believers, and have nothing to do with it, because it had been <hi>corrupted</hi> by the false Church; the subject, and manner of administration being quite altered, and changed; the Ordinance, or pure Institu<g ref="char:EOLhyphen"/>tion being turned into abominable Superstition; may he not as well cast away <hi>Baptisme,</hi> and the <hi>Supper</hi> of the Lord also, sith they have been every way as <hi>much</hi> corrupted, changed, and polluted as this; Nay what Ordinance hath not, our work is to discover, and remove all Popish additions, and pollutions, which in the dayes of darkness crept in, that so we may see <hi>every Institution</hi> shining forth in its primitive purity, and splender; and not reject any Ordinance of Christ, because pol<g ref="char:EOLhyphen"/>luted by Anti-Christ, what though it be, as you say <hi>(viz)</hi> that those <hi>Popes,</hi> Councels, and Fa<g ref="char:EOLhyphen"/>thers, that enjoined, and imposed Infants Baptis<g ref="char:EOLhyphen"/>me for an Ordinance of Christ, enjoined that of confirming of Infants.</p>
+               <pb n="20" facs="tcp:207118:18"/>
+               <p>If it was as <hi>early</hi> corrupted, altered, and changed as Baptisme, ought we not, since God <label type="milestone">
+                     <seg type="milestoneunit">Reply. </seg>
+                  </label> hath given us the light of his Word, and Spirit, to <hi>recover</hi> it from those corruptions as well as Baptisme; The Baptisme of Infants is, we all say, a Popish Tradition, or humane Innovation, yet is Baptisme Christs Ordi<g ref="char:EOLhyphen"/>nance, so we in like manner say, is laying on of hands upon Infants; or such that have only been baptised in Infancy, a meer Popish Rite, and Innovation, and yet is Laying on of hands an Ordinance of Christ, as divers worthy Men have clearly proved from Gods Word, and what though the Antient Fathers, and Councels, which you speak of, together with those of the Church of <hi>Rome,</hi> and <hi>England,</hi> do wholly fly unto <hi>Tra<g ref="char:EOLhyphen"/>dition,</hi> to prove their practice of Laying on of hands upon Children; this will no more weaken our practice, of Laying on of hands upon bap<g ref="char:EOLhyphen"/>tised Believers, then their flying to Tradition, and Usage of the Church (for that you know hath been their strongest ground) to prove their Infants Baptisme, doth weaken our practice of baptizing Believers.</p>
+               <p>Those of the false Church, who wholly make use of Tradition to prove their <hi>Paeaobaptisme,</hi> might without doubt, had God been pleased to open their eyes, seen that Baptisme was a Divine Institution, which was practised by the Apostles; even so might they also have easily seen, that (that) Laying on of hands, practised by the A<g ref="char:EOLhyphen"/>postles next after Baptisme, was Christs holy appointment; though they could not find their
+<pb n="21" facs="tcp:207118:18"/> ridiculous Rite, and blasphemous Ceremony of Confirming Children so to be, there being not the least word of God for it.</p>
+               <p>But from what you say of Authors, especially concerning the first <hi>four,</hi> this I observe (to be short) that in the Anti-Christian Church all along, ever since the Apostacy, from the good old way of the Gospel, there hath been somewhat pra<g ref="char:EOLhyphen"/>ctised, and kept up in the room, and imitation of that Laying on of hands (instituted by Christ, and practised by the Apostles) upon baptised Believers as such, and as necessary to Church Communion, as well as they have kept up some<g ref="char:EOLhyphen"/>thing which they call Baptisme, in imitating of the true Baptisme. And Secondly, 'tis plain, and evident, that as the Church of <hi>Rome</hi> hath changed, and corrupted in an abominable man<g ref="char:EOLhyphen"/>ner the holy Ordinance of Baptisme, in the re<g ref="char:EOLhyphen"/>spect of the subject, and manner of Administra<g ref="char:EOLhyphen"/>tion, and have added abundance of ridiculous, and superstitious fopperies to it; <hi>even so they have done by the Laying on of hands: The Silver is be<g ref="char:EOLhyphen"/>come</hi>
+                  <note place="margin">Isaiah 1. 22</note>
+                  <hi>dross, and the Wine mixed with Water. He shall</hi> (saith Daniel) <hi>think to change times, and Laws</hi>
+                  <note place="margin">Daniel 7. 25.</note> (speaking of the little Horn) <hi>and they shall be given into his hand &amp;c.</hi>
+               </p>
+               <p>But to proceed (doth Mr. <hi>Danvers</hi> utterly detect all those impious forgeries, and <hi>Ceremo<g ref="char:EOLhyphen"/>nies</hi> used in Baptisme, and contended for by those Fathers, Councels, and corrupt Churches, he speaks of, and so clearly witness against them, and confute them, for changing the fubject, and manner of baptizing; &amp; yet all the while holdeth
+<pb n="22" facs="tcp:207118:19"/> for Baptisme it self, and faithfully contend for it; yea and conclude too, notwithstanding those abuses, and corruptions (seeing) by the Antients, and in the false Church Baptisme all along was maintained, it doth rather con<g ref="char:EOLhyphen"/>firm, and prove the thing itself to be an Ordi<g ref="char:EOLhyphen"/>nance of Jesus Christ then otherwise (though not as they perform, and practise it) why cannot he do the like concerning that <hi>Rite</hi> of Popish con<g ref="char:EOLhyphen"/>firmation? we do detect, and abominate all those Superstitious Ceremonies used by them, and witness against them for <hi>changing of the sub<g ref="char:EOLhyphen"/>ject, (viz.)</hi> from baptised <hi>Believers</hi> to sprink<g ref="char:EOLhyphen"/>led <hi>Infants,</hi> or such as were rantised in their Infancy; and yet contend for the thing it self as it was practised in the Apostles time, and little reason he hath to blame us herein: Sith, the work of Reformation, or to labour to re<g ref="char:EOLhyphen"/>duce Ordinances to their primitive purity, and luster, is by himself, and all accounted a glorious work: yea, and it is a full and compleat Reformation, that we all long for, not only for one Ordinance to be restored, &amp; refined from the dross, and abominable filth of Popish Traditions, but every appointment, and Ordinance of Christ.</p>
+               <p>Mr. <hi>Danvers</hi> page 30. having given us an account, how Laying on of hands, or Confir<g ref="char:EOLhyphen"/>mation, hath been asserted, and practised:</p>
+               <p>(<list>
+                     <item>By the Antients.</item>
+                     <item>By Councels:</item>
+                     <item>By the Church of <hi>Rome.</hi>
+                     </item>
+                     <item>By the Church of <hi>England.</hi>
+                     </item>
+                     <item>By some of the <hi>Independent,</hi> and <hi>Presbyterians</hi> perswasion.</item>
+                     <pb n="23" facs="tcp:207118:19"/>
+                     <item>And Lastly, By some of the baptised Churches</item>
+                  </list>) he comes to examine upon what ground such a great Ordinance hath been, and is enjoined:</p>
+               <p>Doubtless it doth concern us all, to see what <label type="milestone">
+                     <seg type="milestoneunit">Reply. </seg>
+                  </label> ground, or Scripture warrant we have for what<g ref="char:EOLhyphen"/>ever we do, or is done in the worship, and ser<g ref="char:EOLhyphen"/>vice of God; And as touching Confirmation, or Laying on of hands, as asserted, and practised by some he speaks of, I marvel not that they leave the Scripture, and fly to Tradition: For First, as touching the thing which the Popish Church calls an Ordinance of Jesus Christ, 'tis so blasphemous, and ridiculous (as he well ob<g ref="char:EOLhyphen"/>serves) that the very naming of the particulers thereof, may fully detect the folly, and impiety of it; whether respecting the name, which is called <hi>Chrysme, Ʋnction, perfection,</hi> &amp;c. or the nature, which is done by putting the sign of the Cross with the Bishops finger, in the forehead of the Confirmed, with these words: <hi>I sign thee with the sign of the Cross, and with the Chrysme of salvation, in the Name of the Father, Son, and Holy Spirit;</hi> the Party being in a white Gar<g ref="char:EOLhyphen"/>ment, his head bound with linnen, his hair cut, and attended with Gossips, or Sureties; this is that (saith Mr. <hi>Danvers)</hi> which several Popes, and Councels, have by their Canons, and De<g ref="char:EOLhyphen"/>crees determined, and enjoyned as the great Sa<g ref="char:EOLhyphen"/>crament of <hi>Confirmation,</hi> pag. 3.</p>
+               <p>Well might <hi>Hommius</hi> tell us, that it is not <label type="milestone">
+                     <seg type="milestoneunit">Reply. </seg>
+                  </label> only contrary to the Scriptures, but Blasphe<g ref="char:EOLhyphen"/>mous, and Idolatrous, and the vain invention of Superstitions Men. And <hi>Tilenus</hi> call it, an ex<g ref="char:EOLhyphen"/>crement
+<pb n="24" facs="tcp:207118:20"/> of Antichrist. And <hi>Amescus</hi> say, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reasons given for the same by the Papists, ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> both empty, and vain. And Mr. <hi>Calvin</hi> cry ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> against it, as is minded by Mr. <hi>Danvers;</hi> T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which I might add a passage out of a Treatise<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Mr. <hi>Hanmors,</hi> who though he is very clear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as touching Laying on of hands upon Adult Per<g ref="char:EOLhyphen"/>sons Baptised, before they are admitted to the Lords Table, yet doth cry down the Papists pra<g ref="char:EOLhyphen"/>ctise herein, in respect of manner, and form; they use (saith he) anointing with <hi>Chrysme,</hi> a com<g ref="char:EOLhyphen"/>pound, of Oyl and Balsom, consecrated by the Bishop; which as it was never instituted by Christ, nor his Apostles, so saith he (as some affirm it) had its original from <hi>Calixtus</hi> Bishop of <hi>Rome,</hi> Anno 218. who ordained Confirmation to be performed with <hi>Chrysme,</hi> which before was done with imposition of hands without <hi>Chrysme:</hi> And further he speaks concerning the form, which (saith he) they make to lye in these words: <hi>Consigno te signo Crucis, &amp; con<g ref="char:EOLhyphen"/>firmo te Chrysmate salutis, in nomine Patris, &amp; Filio, &amp; Spiritus Sancti: I sign thee with the sign of the Cross, and confirm thee with the Chrysme of Sal<g ref="char:EOLhyphen"/>vation, in the Name of the Father, Son and Holy Ghost;</hi> A meer humane invention and device <note place="margin">See Mr. Hanmor on Confir<g ref="char:EOLhyphen"/>mation the antient way of compleat<g ref="char:EOLhyphen"/>ing Church Members pag. 45.</note> (saith Mr. <hi>Hanmor)</hi> that hath not the least shadow <hi>for it from the Scripture;</hi> also another exception he brings, <hi>against the Popish way of Laying on of hands (viz)</hi> in respect of the subject, they Con<g ref="char:EOLhyphen"/>firming Infants, when according to the Aposto<g ref="char:EOLhyphen"/>lical Institution, it belongs only to such as are Adult; And apparent 'tis that <hi>Calvin</hi> from
+<pb n="25" facs="tcp:207118:20"/> hence bore his witness against Confirmation, <hi>(viz)</hi> in respect of the abuse, and corruption of it, as appears in his <hi>Institut. lib. 4. cap.</hi> 19. To which agrees the testimony of <hi>Chemnities;</hi> our Men (saith he) have often shewed, that the rite Confirmation, if the unprofitable Supersti<g ref="char:EOLhyphen"/>tions Traditions, and such that are repugnant to the Scripture, were removed, may piously be used to the edification of the Church, accor<g ref="char:EOLhyphen"/>ding to the consent of the Scripture, <hi>Exercitat. upon Confirm. pag.</hi> 65.</p>
+               <p>That <hi>Calvin</hi> owned Confirmation, or Laying on of hands to be a Divine Institution, take his own words: <q rend="margQuotes">Namneque satis prosua utilitate commendarii potest sanctum hoc Institutem, nec Papistis satis exprobari tam flagitiosa Corruptela Quodillus in pueriles vertoneo; Ineptias non mo<g ref="char:EOLhyphen"/>sustulerunt e medio sed eo quo qua ad Impurae, &amp; impiae Superstitionis praetextum turpit sunt abusi: For neither can this holy Institution <hi>(saith he)</hi> be enough commended for its utility, nor the Papists be sufficiently upbraided with their so flagitious cor<g ref="char:EOLhyphen"/>ruption of it, that by turning of it into Childesh fopperies, they have not only taken it away, but have also so far shamefully abused it, for a colour of an impure, and impious Superstition.</q> And further he saith: <q rend="margQuotes">Adulterinam enimillam Con<g ref="char:EOLhyphen"/>firmationae, quam in ejus surrogarunt instar Me<g ref="char:EOLhyphen"/>retricis, magna Ceremoniarum splendere multis<g ref="char:EOLhyphen"/>que pomparum fucis sinae modo ornant: For they do beyond measure deck that Adulterous Confirma<g ref="char:EOLhyphen"/>tion, which they have substituted in its room like an Harlot with great splendor of Ceremonies. If
+<pb n="26" facs="tcp:207118:21"/> therefore</q>
+                  <hi>((saith that worthy Author in his said</hi>
+                  <note place="margin">Exercit. pag. 51.</note>
+                  <hi>Excercitat. upon Confirm.)</hi>
+                  <q rend="margQuotes">Confirmation shall be, drained from these mixtures of humane Inven<g ref="char:EOLhyphen"/>tions, that have for a long time so defaced, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> deformed it <hi>(viz.)</hi> not called it a Sacrament, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their Popish matter both (remote, and proxima) o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> anointing with consecrated Chrysme, the forehea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Confirmed in the form of a Cross be re<g ref="char:EOLhyphen"/>moved; if not Infants, nor Children, who are not yet arrived to years of discretion be admitted, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> such that are Adult, who are able to give an ac<g ref="char:EOLhyphen"/>count of their Faith, and the work of Grace upo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their hearts; finally if those feigned effects, men<g ref="char:EOLunhyphen"/>tioned by them as the end and use of it, togethe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with those idle additions, that have betided it i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the declining times of the Church, be rejected an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cast of; and if done only with Prayer, and Lay<g ref="char:EOLhyphen"/>ing on of hands, for the admission of Persons a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> full Members, to the enjoyment of all Churc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Priviledges, as most agreeable to that of the A<g ref="char:EOLunhyphen"/>postolical, and primitive times, will <hi>(saith he▪</hi> I conceive be found to be exceeding useful, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> advantagious, as a thing requisite, if not neces<g ref="char:EOLunhyphen"/>sary to a right Reformation; and the reducing o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Churches of Christ to their native beauty, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> primitive purest state, and constitution, &amp;c.</q>
+               </p>
+               <p>And that it might appear it was not only hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> own Judgement, together with <hi>Calvin,</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Chemnities,</hi> he produceth several other emine<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lights of the Reformed Churches <hi>(viz.) Peu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Martyr,</hi> the Divines of <hi>Leyden, Paraus, R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>vot, Peter du Moulin, Didoclamus,</hi> as all wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nessing to Laying on of hands upon the Baptise
+<pb n="27" facs="tcp:207118:21"/> such, as an Apostolical Institution; and that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich ought to be practised by the Churches of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rist, being refined from all Popish corrup<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns, and additions, as the best expedient, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>diest way to a happy Reformation, according <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he primitive Patern; To which I might add <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Caryl,</hi> Mr. <hi>Baxter,</hi> Mr. <hi>Ralph Venning,</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>G. Hughes,</hi> who all speak the same things <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncerning Confirmation, as may be seen in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir Epistles to the forementioned Book of Mr. <note place="margin">Indepen<g ref="char:EOLhyphen"/>dents, and Presbyte<g ref="char:EOLhyphen"/>rians clear touching laying on of hands, as refined from Po<g ref="char:EOLhyphen"/>pish pollu<g ref="char:EOLhyphen"/>tions.</note>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anmors,</hi> in commendation, and approbation <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ereof; and indeed to see how clear they be their understandings, concerning this Ordi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce of Laying on of hands, and how learnedly, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d judiciously they have laboured to recover it <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m those Popish mixtures, and cursed pollu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons of the Romish Church, hath been of a re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eshing nature unto me; though I can't but <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mire in the mean while, they should still re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain so blind, and dark concerning Baptisme, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t perceiving how that also hath been as vilely <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orrupted, and changed from the Apostolical In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itution, in respect of the subject, and manner <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f administration, as well as in regard of those <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dle, and ridiculous forgeries, and additions, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Chrysmes, Consignations, Albes, Salt, Spittle, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ureties, &amp;c. which they witness against; Now <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere but their eyes opened so, as to recover, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd drain Baptisme from Popish corruptions, mu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ations, or alterations upon this account also, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow would it add to the beauty, and perfection of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Confirmation, and Reformation; (provided according to their light they would also get into
+<pb n="28" facs="tcp:207118:22"/> the practise of both;) and what glorious Churc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> might they soon come to be, ye excel man<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the baptised Congregations, in respect of plain form, order, and constitution of the Ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of God, according to the primitive Pate<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> But to proceed (there are few, or none <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> can gather) do appose this Ordinance, s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> some of the Baptists, of which Mr. <hi>Danvers</hi> n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be reckoned the chief; for besides these mod<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Writers, already mentioned, who speak so f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> concerning Laying on of hands, with praye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God, for more of his Holy Spirit of promi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; as an orderly admission unto Church Com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nion, the perswasion, or judgement of the Asse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bly of Divines, concerning this Ordinance might also produce, how clearly they do ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the forementioned Presbyterian, and In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pendent Ministers herein, you may see in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Annotations on <hi>Heb.</hi> 6.</p>
+               <p>But no more of this at present, least we <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> far digress from the matter in hand, that wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we have here said, is in answer to Mr. <hi>Danve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in respect of the rite it self, or thing called Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>firmation; and how to be rejected (as we ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a cloud of witnesses agreeing with us herein and how to be maintained, owned, and practis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the Churches of Christ.</p>
+               <p>I shall now return to Mr. <hi>Danvers,</hi> pag. 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he having in pag. 31. shewed us how blasph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mous, <note place="margin">Those of the An<g ref="char:EOLhyphen"/>tients he cites.</note> and abominable a thing the rite of Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>firmation is, as hath been asserted by the A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tients, and Decrees of the general Councel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and practised by the corrupt Churches. In t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="29" facs="tcp:207118:22"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>xt place he comes to enquire, what credit or <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>thority the Fathers, or Doctors are of that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tness to it, whose authority he labours to dis<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ove, calling them suborned Witnesses, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ights of the post.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>kewing who the Ancients are, and of their credit, and authority, who have born witness to Laying on of hands.</p>
+               </argument>
+               <p>ADmit we grant what Mr. <hi>Danvers</hi> speaks, <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label> concerning <hi>Dyonis. Areopagite,</hi> and the De<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tal Epistles of the first Popes, to be impious <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, and forgeries, shall we therefore conclude <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y are all suborned Witnesses <hi>(viz.)</hi> the An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nts who have writen concerning Laying on <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hands; Surely many of the Fathers, who have <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n witness thereunto, are generally received, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their authority approved as the best of hu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ne <note place="margin">
+                     <hi>A. D</hi> 200. Tertullian de Bapt. c. 6.</note> Writers; What say you to <hi>Tertullian,</hi> shall call him a Knight of the Post? take his Testi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ny: <q rend="margQuotes">Manus imponitur per benedictionem ad<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ocans, &amp; invitans Spiritum Sanctum, tunc ille <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>anctissimus Spiritus super emundata, &amp; bene<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>icta Corpora libens a Patre descendit: After Baptisme the hand is imposed by blessing and call<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ng, and inviting of the Holy Spirit; then that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ost Holy Spirit willingly descends from the Fa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ker, upon the Bodies that are cleansed, and bles<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </q>
+               </p>
+               <p>Moreover he saith: <q rend="margQuotes">It is the fleshly, or out<g ref="char:EOLhyphen"/>ward
+<pb n="30" facs="tcp:207118:23"/> act of Baptisme, that we are dipt in w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <note place="margin">Tertul. de Bapt. ad Quintil. cap. 8.</note> the spiritual effects, that we are freed fro<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Sins: <hi>Then follows,</hi> Laying on of hands<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Dispenser inviting the Spirit of God by Pr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </q> And again being cleansed by Baptismal<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ter (saith he) we are disposed for the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Spirit, under the hands of the Angel o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Church; And further speaking concernin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> happy state of the Church in his day, he<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <note place="margin">De Pra Script. cap. 36.</note> she believeth in God; she signs with water<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is baptiseth;) she cloaths with the Spirit,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> by Imposition of hands;) she feeds with th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> charist; and exhorts to Martyrdom; and ag<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> this Order, or Institution, she receive<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Man.</p>
+               <p>Another suborned Witness that I shall ca<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> if we must call him so, shall be <hi>Eusebius</hi> (no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Pope of that name,) but <hi>Eusebius Pamphilus▪</hi> lived in the time of <hi>Constantinus Magnus<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Emperor, about three hundred years<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Christ, he certifies fully to our purpose, <note place="margin">Euseb. lib. 7. c. 2.</note> the <hi>ancient manner</hi> of receiving Members<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Church, was with Prayer, and Laying o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> hands; Doubtless by calling it the ancient<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ner, it must needs refer to the Apostles time<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </p>
+               <p>Again <hi>Eusebius</hi> declareth, that one <hi>No<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+                  <note place="margin">Euseb. lib. 6. c 26.</note> being sick was baptised, if it may be cal<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Baptisme (saith he) which he received, fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> obtained not after his recovery, that whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> should have done by the Canon of the Chu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to wit Confirmation by the hands of the Bis<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> which having not obtained, how can he be<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>posed to have received the Holy Spirit?<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="31" facs="tcp:207118:23"/> was about the year 260. 'Tis also to be noted, that in neither of those places, nor any where else in <hi>Eusebius,</hi> is the least mention made of Crossing, or Chrysme, in the administration of this Ordinance.</p>
+               <p>
+                  <hi>Cyprian</hi> shall be the next, whom none I sup<g ref="char:EOLhyphen"/>pose <note place="margin">A. D. 250. Cyprian his Epist. to Jubar 73.</note> do take for a suborned Witness, having urged that of the Apostles going to <hi>Samaria,</hi> to impose hands on those that <hi>Phillip</hi> had baptised (saith he) which custom is also descended to us, that they who are baptised, might be brought by the Rulers of the Church, and by Prayer, and Imposition of hands obtain the Holy Ghost. <note place="margin">In his Ep. to Stephen speaking of Heretiks Epist. 72. 210. Origen.</note> Again saith <hi>Cyprian:</hi>
+                  <q rend="margQuotes">It is of no purpose to lay hands on them to receive the Holy Spirit, unless they receive the Baptisme of the Church. I might</q> produce <hi>Origen,</hi> in his 7. <hi>Homily</hi> upon <hi>Ezekiel,</hi> who speaks concerning it.</p>
+               <p>Also <hi>Hierom,</hi> who answers this question, <note place="margin">Hierom. Dial. ad a Lucifer.</note>
+                  <hi>(viz.)</hi> why he that is baptised in the Church, doth not receive the Holy Ghost, but by impo<g ref="char:EOLhyphen"/>sition of hands (saith he) This observation for the honour of the Priesthood, did descend from the Scriptures; If you ask me where it is written? 'tis answered, <hi>in Actibus Apostolorum:</hi> 'tis writ<g ref="char:EOLhyphen"/>ten in the <hi>Acts of the Apostles.</hi>
+               </p>
+               <p>
+                  <hi>Ambrose</hi> is cited by <hi>H. Danvers</hi> himself; with <note place="margin">Ambrose. Augustin. Chrysoft. Theodo<g ref="char:EOLhyphen"/>ret.</note>
+                  <hi>Augustine,</hi> and some others whose authority is not questioned: To which I might add <hi>Chrysostom, Theodoret, &amp;c.</hi> Several others, yea many might be produced, besides those he calls suborned witness; and yet have we far better Authors, and witnesses, to defend this sacred truth, for
+<pb n="32" facs="tcp:207118:24"/> we have the authority of our Lord Jesus Christ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 'tis left on record amongst the first principles o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Doctrine; we have the testimony of the A<g ref="char:EOLhyphen"/>postles <hi>Peter▪</hi> and <hi>John;</hi> and one not inferior to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them,) <hi>viz.)</hi> blessed St. <hi>Paul:</hi> as hath, and shal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (God assisting) be made further evident: And up<g ref="char:EOLunhyphen"/>on no better authority, I must confess, is thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sacred Ordinance imposed upon us.</p>
+               <p>But now to speak more directly to Mr. <hi>Dan<g ref="char:EOLhyphen"/>vers,</hi> what he insisteth upon in pag. 33. about the rite of Confirmation, as 'tis practised in the Church of <hi>Rome,</hi> and as corrupted from the pure Institution, we readily grant that it is of no bet<g ref="char:EOLhyphen"/>ter Authority then Infants Baptisme. And as touching what he speaks of <hi>Rivet,</hi> that it was <note place="margin">Rivet Controv. Tom. 2.</note> neither instituted by Christ, or his Apostles, 'tis spoken with respect of the Popish manner, with <hi>Chrysme,</hi> and other ridiculous Ceremonies, <note place="margin">Exercit. pag. 44.</note> which was before done with Prayer, and Impo<g ref="char:EOLhyphen"/>sition of hands without <hi>Chrysme,</hi> they did, saith Mr. <hi>Baxter,</hi> make hast to corrupt it, they quickly introduced the Crosses, and <hi>Crysme,</hi> but from the beginning it was not so: And as touch<g ref="char:EOLhyphen"/>ing what he speaketh concerning <hi>Ambrose. Je<g ref="char:EOLhyphen"/>rom, Augustin,</hi> and some others, it is granted, they lived in those times when the Church was adulterated, and the holy appointments of Christ corrupted, and changed from their primitive pu<g ref="char:EOLhyphen"/>rity; and this makes no more against the holy Ordinance of Laying on of hands, then it doth against Baptisme, and the Supper of our Lord, &amp;c. as I have already shewed; All that Mr. <hi>Danvers</hi> hath said hitherto of Tradition, and Fa<g ref="char:EOLhyphen"/>thers,
+<pb n="33" facs="tcp:207118:24"/> makes only against the Church of <hi>Rome,</hi> and <hi>England,</hi> and others who have drunk of the Whores cup; those things which they cry up for Apostolical Traditions, are nought, else sure meer humane innovations, and cursed in<g ref="char:EOLhyphen"/>ventions of corrupt Men. I shall close this with a passage of Doctor <hi>Jer. Ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ler,</hi> in his Epistle <note place="margin">Dr. Tayler Epist. De<g ref="char:EOLhyphen"/>dicat.</note> Dedicatory, treating about Laying on of hands upon baptised Persons as such (saith he) <q rend="margQuotes">this was ancient, and long before Popery entered into the World, and that this rite hath been more abused by Popery then by any thing. Concerning</q> what Mr. <hi>Danvers</hi> speaks of the <hi>Waldenses;</hi> that the true <hi>Waldenses</hi> were against Imposition of hands; if that be true which he says, yet it must be understood, that it was the Popish Confir<g ref="char:EOLhyphen"/>mation which they disowned, called a Sacrament, accompanied with Ceremonies; for so I find they express themselves: Such a Confirmation I grant they witness against, as being none of Christs Institution, but introduced by the Devils insti<g ref="char:EOLhyphen"/>gation, 'twas the corruption of it, and not the thing it self. Doubtless they witness against, that they owned not Laying on of hands at all after Baptisme, before admission was granted to the Lords Table; I judge it will be to hard for Mr. <hi>Danvers</hi> to make appear. But if they should be ignorant of this truth 'tis no marvel, considering the day they lived in.</p>
+               <p>If it should be objected, they with other <label type="milestone">
+                     <seg type="milestoneunit">Objection </seg>
+                  </label> Churches, and People he mentions, were much enlightened into the truths of the Gospel. <label type="milestone">
+                     <seg type="milestoneunit">Answer. </seg>
+                  </label>
+               </p>
+               <p>That is no good argument, since glorious Re<g ref="char:EOLhyphen"/>formers,
+<pb n="34" facs="tcp:207118:25"/> and eminent enlightened Souls, m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> notwithstanding lye short of some Institution the Almighty, as appears both in the Old, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> New Testament: What glorious light had <hi>D<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>vid, Solomon, Hezekiah, Josiah,</hi> and many othe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the Godly Kings, and Prophets in <hi>Juda?</hi> an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> yet one thing, which was plainly laid down<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Book of the Law, they were short in; nay,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> some judge, they did not see it, <hi>(viz▪)</hi> sittin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in Booths in the Feast of the seventh Moneth of which we read in <hi>N<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hemiah</hi> 8. 13, 14. the found written (saith the Text) in the Law, whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> God commanded by <hi>Moses,</hi> that the Children<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Israel</hi> should dwell in Booths, in the Feast of t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> seventh Moneth; <hi>Vers.</hi> 15. And all the Congr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gation of them, that were come again out<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Captivity, made Booths, and sate under th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Booths; for since the days of <hi>Joshua</hi> the Son<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Nun,</hi> unto that day, had not the Children<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Israel</hi> done so; and there was very great gla<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ness, <hi>verse</hi> 47.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>Shewing upon what ground, some of the Independe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> and Presbyterian perswasion, have asserted Lay<g ref="char:EOLhyphen"/>ing on of hands on baptised Persons.</p>
+               </argument>
+               <p>IN pag. 36. Mr. <hi>Danvers</hi> having done with Tr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dition, and Fathers, he tells us, he will co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>sider the Scripture grounds, that is urged i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> proof hereof by the Independents, and those o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:207118:25"/> the Presbyterian perswasion; In the first place, which is principally <hi>Heb</hi> 6. 1. 2. which he saith, Mr. <hi>Hanmor</hi> modestly expresseth, to be but a probable ground.</p>
+               <p>To which I shall give this answer, that though Mr. <hi>Hanmor</hi> doth use such a Phrase <hi>(viz.)</hi> calling <hi>Heb.</hi> 6. 1, 2 a probable ground, he doth not say, 'tis but a probable ground; and those that read his Book shall find, that he doth abundant<g ref="char:EOLhyphen"/>ly, by the testimony of divers famous Men, en<g ref="char:EOLhyphen"/>deavour to prove it, to be absolutely the Lay<g ref="char:EOLhyphen"/>ing on of hands, intendeth in that Scripture. <note place="margin">See page 25, 26.</note> And since I find many eminent Men, speaking so plainly upon this account on <hi>Heb,</hi> 6. 1. 2. and to satisfie some Persons herein, and prevent mistakes, take a few instances out of Mr. <hi>Han<g ref="char:EOLhyphen"/>mor,</hi> as the judgement of several Divines upon that Text.</p>
+               <p>The first I shall cite is <hi>Didoclavius,</hi> who of three Interpretations of this Text, mentioned <note place="margin">Didocla<g ref="char:EOLhyphen"/>vius c. 2.</note> by him, admits of this <hi>(viz.)</hi>
+                  <q rend="margQuotes">
+                     <hi>Laying on of hands after Baptisme, and before admitted to the Lords Table:</hi>
+                  </q> And gives a reason why it may be called Confirmatory. <q rend="margQuotes">
+                     <hi>Nempe rationae Ecclesiae approbantis, &amp; confirmantis sua approbatione exa<g ref="char:EOLhyphen"/>minatum ad verum, illud ac genuina Confirma<g ref="char:EOLhyphen"/>tionis Sacramentis admittentis: </hi>(viz.)<hi> Because of the Churches approving, and by their approba<g ref="char:EOLhyphen"/>tion confirming of the Person, examined, and ad<g ref="char:EOLhyphen"/>mitting him unto that true, and genuine rite of Confirmation.</hi>
+                  </q>
+               </p>
+               <p>The next is <hi>Major,</hi>
+                  <q rend="margQuotes">On this place <hi>(saith he)</hi>
+                     <note place="margin">Major on Heb. 6. 2.</note> all that I have seen <hi>(mark)</hi> understand it of Impo<g ref="char:EOLhyphen"/>sition
+<pb facs="tcp:207118:26"/> of hands upon such as have been baptised only,</q> Bullinger.</p>
+               <p>Mr. <hi>Hooker</hi> alledging <hi>T. C.</hi> thus speaking, <q rend="margQuotes">tel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <note place="margin">Mr. Hook<g ref="char:EOLhyphen"/>er lib. 5. Sect. 6. in his Appen<g ref="char:EOLhyphen"/>dix pag. 3.</note> me, why there should be any such Confirmation<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> seeing that no one title thereof can be found in the Scripture; Thus answers <hi>ironically,</hi> excep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Epistle to the <hi>Hebrews</hi> chap. 6. 2. be Scrip<g ref="char:EOLhyphen"/>ture plainly intimating (saith Mr. <hi>Hanmor)</hi> the thought that place to be a sufficient ground fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it, and that to be the meaning of the Apostle there.</q>
+               </p>
+               <p>Mr. <hi>Parker,</hi> who refuting the Arguments o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <note place="margin">Mr. Parker de Polit. Eccles. lib. 3. c. 16. 35.</note> those that plead for Episcopal Confirmation, dot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at large assent (saith our Author) that which is b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me delivered.</p>
+               <p>
+                  <hi>First,</hi>
+                  <q rend="margQuotes">He shews the general nature, and en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of it, <hi>(viz.)</hi> the admission of Members into Communion of the Church, which accordingly was made use of towards such that were con<g ref="char:EOLhyphen"/>verted. This Imposition of hands (saith he) <hi>Heb.</hi> 6. 2. is that very Ecclesiastical Union, by a solemn professing of Faith, and admission into the Church.</q>
+               </p>
+               <p>
+                  <hi>Secondly,</hi>
+                  <q rend="margQuotes">He shews the necessity of it, from this Text <hi>Heb.</hi> 6 2.</q> (saith Mr. <hi>Hanmor.)</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> That it ought to be done publickly and before the Church: <q rend="margQuotes">
+                     <hi>Est hic or do inter gra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> via negotia agitur, enim de membro recipiendo pu<g ref="char:EOLhyphen"/>blicum hoc est, &amp; publici juris, &amp; ideo non ni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Ecclesiae consensu ejusdem, cui adjungendus est competens perficiendus: This course is to be rec<g ref="char:EOLhyphen"/>koned among the weighty affairs, it is a public<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> thing, and of publick right, for the matter i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <pb n="37" facs="tcp:207118:26"/> agitation, is concerning the receiving of a Mem<g ref="char:EOLhyphen"/>ber, and therefore not to be performed without the consent of that same Churah, to which the compe<g ref="char:EOLhyphen"/>tent is to be joined.</hi>
+                  </q>
+               </p>
+               <p>
+                  <hi>Fourthly.</hi> He shews the Antiquity thereof, <q rend="margQuotes">and that 'tis an Apostolical Institution, and the practise of the Antient Church.</q>
+               </p>
+               <p>He further affirms, that <hi>Piscator</hi> so understood <note place="margin">Pag. 28. Excertat. Piscator, Beza. Paraeus, Rivet.</note>
+                  <hi>Heb.</hi> 6. 1, 2. <hi>(viz.)</hi> to mean Laying on of hands upon the Baptised; Also <hi>Beza, Paraeus,</hi> and <hi>Rivet,</hi> whose words take as followeth: <q rend="margQuotes">Impositio ma<g ref="char:EOLhyphen"/>nuum cujus mentio fit <hi>Heb. 6. 2.</hi> referenda est ad solemnem Baptizatorum Benedictionem, quae a Pastoribus sole<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ri eos in Christianissimi vo<g ref="char:EOLhyphen"/>cationis confirmantibus: Imposition of hands, whereof mention <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> made <hi>Heb. 6. 2.</hi> is to be refer<g ref="char:EOLhyphen"/>red unto the solemn benediction of the Baptised, which was used to be performed by the Pastors, confirming them in the calling of Christianity.</q> He mentions the Doctors of <hi>Leyden,</hi> shewing <note place="margin">Doctors of Leyden.</note> this to be their sence upon this Text also.</p>
+               <p>
+                  <hi>Calvin,</hi> who gives this only, as the thing in<g ref="char:EOLhyphen"/>tendeth by the Apostle in this place, from whence <note place="margin">Calvin.</note> he draws this remarkable Inference; wherein (saith Mr. <hi>Hanmor)</hi> he plainly declares, his ap<g ref="char:EOLhyphen"/>prehensions concerning the original and Antiquity of this practise in the Church of Christ <hi>(Hic unus locus &amp;c.)</hi>
+                  <q rend="margQuotes">this one place (saith he) doth abun<g ref="char:EOLhyphen"/>dantly testify, that the original of this Cere<g ref="char:EOLhyphen"/>mony <hi>(viz.)</hi> Confirmation, or Laying on of hands, did flow from the Apostles, which yet afterwards was turned into a Superstition; as the world almost always doth degenerate from the
+<pb n="38" facs="tcp:207118:27"/> best Institutions into corruption: Wherefore, saith <hi>Calvin,</hi> to this day this pure Institution [mark] ought to be reta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ned, but the Supersti<g ref="char:EOLhyphen"/>tion to be corrected. Why should Mr. <hi>Danvers</hi> presume to say, these Men confess the Scripture is but a probable ground, and that Tradition, and Antiquity the more certain. And again that there is nothing but a saint insinuation from the Scripture to ground Laying on of hands upon.</q> What Men can speak more fully to a Text?</p>
+               <p>But to proceed, he adds <hi>Hyperus,</hi> Imposition <note place="margin">Hyperus.</note> of hands, <hi>Heb.</hi> 6. 2. <q rend="margQuotes">was in the confirmation of those that had been baptised (saith he) and right<g ref="char:EOLhyphen"/>ly instructed, that they might receive the Holy Spirit.</q> He urgeth several other Persons of the same mind, as <hi>Ellyricus</hi> Mr. <hi>Deering,</hi> &amp;c.</p>
+               <p>To which I might add what Mr. <hi>Hughes</hi> men<g ref="char:EOLhyphen"/>tions upon this account, speaking of this Text <note place="margin">M. Hughes late of Plymouth in his Ep. to M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Ha<g ref="char:EOLhyphen"/>mors Book</note>
+                  <hi>Heb.</hi> 6. 2. <q rend="margQuotes">It is by some glorious Lights in the Church saith he) understood <hi>(viz.)</hi> of Confir<g ref="char:EOLhyphen"/>mation, in that Phrase of Imposition of hands, annexed to Baptisme, <hi>Heb.</hi> 6. Whence it is said, that this abundantly testifie, that the original of this Ceremony flowed from the Apostles.</q>
+               </p>
+               <p>Before I proceed, I might cite a passage full <note place="margin">The As<g ref="char:EOLhyphen"/>sembly on Heb. 6. 2.</note> to the same purpose, as the Judgement of that learned Assembly of Divines, which take as fol<g ref="char:EOLhyphen"/>loweth, out of their Annotations on <hi>Heb.</hi> 6 2. <q rend="margQuotes">Laying on of hands, which say they, is usually called Confirmation; which stood First, in exa<g ref="char:EOLhyphen"/>mining those that had been baptised, what pro<g ref="char:EOLhyphen"/>gress they had made in Christianity.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Secondly, In praying for them, that God
+<pb n="39" facs="tcp:207118:27"/> would continue them in the Faith, &amp; give them more grace, strengthening them by his Holy Spirit, they laid their hands upon them, whence the Apostolical Constitution was called, Laying on of hands.</q>
+               </p>
+               <p>What Mr. <hi>Baxter</hi> speaks upon this account I <note place="margin">Mr. Baxter on Confir. p. 124, 125</note> can't well omit: <hi>viz.</hi>
+                  <q rend="margQuotes">If the Universal Church of Christ (saith he) have used Prayer, &amp; Laying on of hands, as a practise received from the Apost<g ref="char:EOLhyphen"/>les; and no other beginning of it can be found, then we have no reason to think this Ceremo<g ref="char:EOLhyphen"/>ny to be ceased, or to interpret the foresaid Scripture, contrary to this practise of the Uni<g ref="char:EOLhyphen"/>versal Church. But the antecedent is true, ergo; And if any say, anointing, and crossing were an<g ref="char:EOLhyphen"/>cient: I answer (saith he)</q>
+               </p>
+               <q>
+                  <p>
+                     <hi>First,</hi> That they were as ancient in the Po<g ref="char:EOLhyphen"/>pish use, as the matter of a Sacrament, or ne<g ref="char:EOLhyphen"/>cessary signes, is not true, nor proved, but fre<g ref="char:EOLhyphen"/>quently disproved by our Writers, against Po<g ref="char:EOLhyphen"/>pish Confirmation.</p>
+                  <p>
+                     <hi>Secondly,</hi> Nor can it be proved, that they were as ancient as indifferent things.</p>
+                  <p>
+                     <hi>Thirdly,</hi> We prove the contrary, because they were not in Scriptures times, there being no mention of them.</p>
+                  <p>
+                     <hi>Fourthly.</hi> So that we bring Antiquity but to prove the continuance of a Scripture practise, and so to clear the practise of it; But the Papists plead Fathers, for that which the Scripture is a stranger unto.</p>
+                  <p>I shall close this with reverend Mr. <hi>Hooker,</hi>
+                     <note place="margin">Hooker Eccles. Po<g ref="char:EOLhyphen"/>lic P 351.</note> the ancient Custom of the Church (saith he) was</p>
+               </q>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
